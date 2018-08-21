@@ -6,7 +6,11 @@
   2. mediano, grande, muy-grande
   3. rotar-derecha*, rotar-izquierda*
   4. desplazar-derecha*, desplazar-izquierda*
-* Define los atributos de cada clase a tu gusto.
+* Define los atributos de cada clase a tu gusto:
+   * Tamaños, familia, estilos y colores de fuente
+   * Márgenes internos y externos
+   * Colores de fondo
+   * Efectos y/o sombras
 
 Visita [w3schools](https://www.w3schools.com/cssref/css3_pr_transform.asp) para saber más sobre los efectos 2D.
 
